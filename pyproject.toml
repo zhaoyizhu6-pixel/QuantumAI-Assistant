@@ -1,0 +1,16 @@
+[project]
+name = "qamm-v2-core"
+version = "2.0.0"
+description = "QuantumAI Memory Assistant v2.0 Core (CN Hybrid, Flask Web UI, BM25 + optional local vectors)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "flask>=3.0.0",
+    "jieba>=0.42.1",
+    "rank-bm25>=0.2.2",
+    "numpy>=1.24.0",
+    "sentence-transformers>=3.0.0",
+    "fastapi>=0.120.1",
+    "uvicorn>=0.38.0",
+]
+[tool.uv]

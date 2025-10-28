@@ -1,0 +1,8 @@
+{"question": "什么是量子比特（qubit）？", "answer": "量子比特可处于|0⟩与|1⟩的叠加态：|ψ⟩=α|0⟩+β|1⟩，且|α|^2+|β|^2=1。", "source": "base"}
+{"question": "哈达玛门（H门）作用？", "answer": "H门将|0⟩→(|0⟩+|1⟩)/√2，将|1⟩→(|0⟩−|1⟩)/√2；用于产生叠加与基变换。", "source": "base"}
+{"question": "X门作用？", "answer": "X门是比特翻转门，实现|0⟩↔|1⟩。", "source": "base"}
+{"question": "Z门作用？", "answer": "Z门对|1⟩施加相位−1，改变相位而不改变测量概率。", "source": "base"}
+{"question": "S门作用？", "answer": "S门对|1⟩乘以 i（π/2 相移），两次S等价Z。", "source": "base"}
+{"question": "为什么量子测量是随机的？", "answer": "测量是对量子态在所选基下投影，结果按|α|^2与|β|^2发生，体现叠加与坍缩。", "source": "base"}
+{"question": "什么是Bloch球？", "answer": "Bloch球是单量子比特纯态的几何表示，球面点对应量子态方向。", "source": "base"}
+{"question": "RAG 是什么？", "answer": "检索增强生成：先从知识库检索，再综合生成回答，兼顾可控与可解释。", "source": "base"}

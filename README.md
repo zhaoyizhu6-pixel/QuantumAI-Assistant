@@ -154,6 +154,10 @@ See [`LICENSE`](./LICENSE) for more information.
 🎯 研究方向：AI 助手 / 知识检索 / 智能教育系统  
 💬 GitHub: [@zhaoyizhu6-pixel](https://github.com/zhaoyizhu6-pixel)
 
+**徐熙曈 (Xv Xitong)**  
+📍 Southwest University (SWU) · 智能科学与技术专业  
+💬 GitHub: [@xxt7104](https://github.com/xxt7104)
+
 ---
 
 > 🌟 *“Educating the machine that teaches quantum.”*  

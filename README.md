@@ -158,6 +158,10 @@ See [`LICENSE`](./LICENSE) for more information.
 📍 Southwest University (SWU) · 智能科学与技术专业  
 💬 GitHub: [@xxt7104](https://github.com/xxt7104)
 
+**禄梦琪 (Lu Mengqi)**  
+📍 Southwest University (SWU) · 智能科学与技术专业  
+💬 GitHub: [@6m7740](https://github.com/6m7740)
+
 ---
 
 > 🌟 *“Educating the machine that teaches quantum.”*  
